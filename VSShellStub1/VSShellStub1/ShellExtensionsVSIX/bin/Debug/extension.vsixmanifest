@@ -1,0 +1,19 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="282a5904-2d25-42c4-a3c3-272e7dd47ccf" Version="1.0" Language="en-US" Publisher="My Company" />
+    <DisplayName>Shell VSIX manifest</DisplayName>
+    <Description>Core extensions for VSShellStub1</Description>
+  </Metadata>
+  <Installation InstalledByMsi="true" SystemComponent="true">
+    <InstallationTarget Id="VSShellStub1" Version="[1.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="ProjectType1.dll" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="ProjectType1.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" Path="ProjectTemplates" />
+    <Asset Type="Microsoft.VisualStudio.ItemTemplate" Path="ItemTemplates" />
+  </Assets>
+</PackageManifest>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>foo</Name>
+    <Description>foo</Description>
+    <Icon>foo.ico</Icon>
+    <TemplateID>24024aa0-613b-4db0-9080-ee7ba1b169fb</TemplateID>
+    <!--<ProjectType>CSharp</ProjectType>-->
+    <ProjectType>ProjectType1</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>f.foo</DefaultName>
+    <!--<AppliesTo>ProjectType1</AppliesTo>-->
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System</Assembly>
+      </Reference>
+    </References>
+    <ProjectItem ReplaceParameters="true">Class.foo</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

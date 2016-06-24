@@ -1,0 +1,9 @@
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\\ProjectType1.dll
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\\ProjectType1.pkgdef
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\\extension.vsixmanifest
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\ProjectTemplates\ProjectType1\\1033\ProjectType1.zip
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\\ProjectType1.pdb
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\ItemTemplates\CSharp\\1033\foo.zip
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\ItemTemplates\CSharp\\1033\goo.zip
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\ItemTemplates\ProjectType1\\1033\foo.zip
+C:\Users\Mario Hsiao\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\ProjectType1.ProjectType\ProjectType1 VSIX\1.0\ItemTemplates\ProjectType1\\1033\goo.zip

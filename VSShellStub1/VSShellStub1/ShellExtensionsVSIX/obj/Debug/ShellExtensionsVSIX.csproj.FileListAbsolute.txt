@@ -1,0 +1,374 @@
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\VSShellStub1.AboutBoxPackage.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\EnvDTE.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Newtonsoft.Json.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\stdole.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.MSXML.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\VSShellStub1.AboutBoxPackage.pdb
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Framework.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Utilities.Core.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Tasks.Core.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Engine.dll
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.pdb
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.xml
+c:\users\mario hsiao\documents\visual studio 2015\Projects\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\VSShellStub1.AboutBoxPackage.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Framework.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\EnvDTE.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Newtonsoft.Json.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\stdole.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.MSXML.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Engine.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.pdb
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\VSShellStub1.AboutBoxPackage.pdb
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\VSShellStub1.AboutBoxPackage.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\EnvDTE.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\stdole.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Engine.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.pdb
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\VSShellStub1.AboutBoxPackage.pdb
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Framework.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\EnvDTE.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Newtonsoft.Json.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\stdole.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.MSXML.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Engine.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.pdb
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\vsshell\CustomEditor\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\FooEditorVSIX.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Framework.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\EnvDTE.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Newtonsoft.Json.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\stdole.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.MSXML.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Engine.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.pdb
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+C:\vsshell\CustomBuild\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\EnvDTE.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\stdole.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.Build.Engine.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\ProjectType1.pdb
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.Utilities.v14.0.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.V14Only.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.ProjectSystem.VS.V14Only.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.Composition.Configuration.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\VSShellStub1\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest

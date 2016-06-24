@@ -1,0 +1,24 @@
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\goo\obj\Debug\goo.dll
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\goo\obj\Debug\goo.pdb
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\goo\bin\Debug\ItemTemplates\ProjectType1\1033\goo.zip
+C:\vsshell\VSProjectSystem\CPS\VSShellStub1\goo\obj\Debug\ProjectType1\1033\goo.zip
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\goo\bin\Debug\ItemTemplates\ProjectType1\1033\goo.zip
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\goo\obj\Debug\goo.csprojResolveAssemblyReference.cache
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\goo\obj\Debug\ProjectType1\1033\goo.zip
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\goo\obj\Debug\goo.dll
+C:\Users\Mario Hsiao\Desktop\VSShellStub1\goo\obj\Debug\goo.pdb
+C:\vsshell\CustomEditor\VSShellStub1\goo\bin\Debug\ItemTemplates\ProjectType1\1033\goo.zip
+C:\vsshell\CustomEditor\VSShellStub1\goo\obj\Debug\ProjectType1\1033\goo.zip
+C:\vsshell\CustomEditor\VSShellStub1\goo\obj\Debug\goo.dll
+C:\vsshell\CustomEditor\VSShellStub1\goo\obj\Debug\goo.pdb
+C:\vsshell\CustomEditor\VSShellStub1\goo\obj\Debug\goo.csprojResolveAssemblyReference.cache
+C:\vsshell\CustomBuild\VSShellStub1\goo\bin\Debug\ItemTemplates\ProjectType1\1033\goo.zip
+C:\vsshell\CustomBuild\VSShellStub1\goo\obj\Debug\ProjectType1\1033\goo.zip
+C:\vsshell\CustomBuild\VSShellStub1\goo\obj\Debug\goo.dll
+C:\vsshell\CustomBuild\VSShellStub1\goo\obj\Debug\goo.pdb
+C:\vsshell\CustomBuild\VSShellStub1\goo\obj\Debug\goo.csprojResolveAssemblyReference.cache
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\goo\bin\Debug\ItemTemplates\ProjectType1\1033\goo.zip
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\goo\obj\Debug\goo.csprojResolveAssemblyReference.cache
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\goo\obj\Debug\ProjectType1\1033\goo.zip
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\goo\obj\Debug\goo.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\goo\obj\Debug\goo.pdb

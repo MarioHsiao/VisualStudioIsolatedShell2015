@@ -1,0 +1,34 @@
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\CustomDesignerVSIX.dll
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\ProjectType1.dll
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\VSShellStub1.AboutBoxPackage.dll
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\extension.vsixmanifest
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\Microsoft.VisualStudio.XmlEditor.dll
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\Newtonsoft.Json.dll
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\CustomDesignerVSIX.pkgdef
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\ProjectType1.pkgdef
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\ItemTemplates\ProjectType1\\1033\foo.zip
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\ItemTemplates\ProjectType1\\1033\goo.zip
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\ProjectTemplates\ProjectType1\\1033\ProjectType1.zip
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\VSShellStub1.AboutBoxPackage.pkgdef
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\CustomDesignerVSIX.pdb
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\ProjectType1.pdb
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\VSShellStub1.AboutBoxPackage.pdb
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\FooEditorVSIX.dll
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\FooEditorVSIX.pkgdef
+C:\vsshell\CustomEditor\VSShellStub1\Debug\Extensions\Application\\FooEditorVSIX.pdb
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\\ProjectType1.dll
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\\extension.vsixmanifest
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\\Newtonsoft.Json.dll
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\ItemTemplates\ProjectType1\\1033\foo.zip
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\ItemTemplates\ProjectType1\\1033\goo.zip
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\ProjectTemplates\ProjectType1\\1033\ProjectType1.zip
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\\ProjectType1.pkgdef
+C:\vsshell\CustomBuild\VSShellStub1\Debug\Extensions\Application\\ProjectType1.pdb
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\\ProjectType1.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\\extension.vsixmanifest
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\\Newtonsoft.Json.dll
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\ItemTemplates\ProjectType1\\1033\foo.zip
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\ItemTemplates\ProjectType1\\1033\goo.zip
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\ProjectTemplates\ProjectType1\\1033\ProjectType1.zip
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\\ProjectType1.pkgdef
+C:\Users\Mario Hsiao\Source\Repos\VisualStudioIsolatedShell2015\VSShellStub1\Debug\Extensions\Application\\ProjectType1.pdb

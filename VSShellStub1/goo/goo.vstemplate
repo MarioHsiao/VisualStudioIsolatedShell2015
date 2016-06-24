@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>goo</Name>
+    <Description>goo</Description>
+    <Icon>goo.ico</Icon>
+    <TemplateID>b48b164d-f214-4a28-9fe5-105bf5f87369</TemplateID>
+    <!--<ProjectType>CSharp</ProjectType>-->
+    <ProjectType>ProjectType1</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>g.goo</DefaultName>
+    <!--<AppliesTo>ProjectType1</AppliesTo>-->
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System</Assembly>
+      </Reference>
+    </References>
+    <ProjectItem ReplaceParameters="true">Class.goo</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VSShellStub1", "VSShellStub1\VSShellStub1\VSShellStub1.vcxproj", "{E4765781-9289-4FEC-A0F4-49C76CEECD88}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE} = {D57A8964-636D-4FA7-8E80-5C4613C102CE}
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4} = {2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VSShellStub1UI", "VSShellStub1\VSShellStub1UI\VSShellStub1UI.vcxproj", "{D57A8964-636D-4FA7-8E80-5C4613C102CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellExtensionsVSIX", "VSShellStub1\ShellExtensionsVSIX\ShellExtensionsVSIX.csproj", "{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectType1.ProjectType", "ProjectType1\ProjectType1.ProjectType\ProjectType1.ProjectType.csproj", "{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectType1.ProjectTemplate", "ProjectType1\ProjectType1.ProjectTemplate\ProjectType1.ProjectTemplate.csproj", "{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foo", "foo\foo.csproj", "{C1039BAF-64AE-4706-A362-0EC9A329F42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goo", "goo\goo.csproj", "{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4765781-9289-4FEC-A0F4-49C76CEECD88}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{E4765781-9289-4FEC-A0F4-49C76CEECD88}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4765781-9289-4FEC-A0F4-49C76CEECD88}.Debug|x86.Build.0 = Debug|Win32
+		{E4765781-9289-4FEC-A0F4-49C76CEECD88}.Release|Any CPU.ActiveCfg = Release|Win32
+		{E4765781-9289-4FEC-A0F4-49C76CEECD88}.Release|x86.ActiveCfg = Release|Win32
+		{E4765781-9289-4FEC-A0F4-49C76CEECD88}.Release|x86.Build.0 = Release|Win32
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE}.Debug|x86.Build.0 = Debug|Win32
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE}.Release|x86.ActiveCfg = Release|Win32
+		{D57A8964-636D-4FA7-8E80-5C4613C102CE}.Release|x86.Build.0 = Release|Win32
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Debug|x86.Build.0 = Debug|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Release|x86.ActiveCfg = Release|Any CPU
+		{2CC2F08C-185F-4FA8-9A73-F7E26995EFC4}.Release|x86.Build.0 = Release|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Debug|x86.Build.0 = Debug|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Release|x86.ActiveCfg = Release|Any CPU
+		{91CA434B-6DAF-4D08-BAAD-C9FDC4199754}.Release|x86.Build.0 = Release|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Debug|x86.Build.0 = Debug|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Release|x86.ActiveCfg = Release|Any CPU
+		{5942F364-FC53-4515-AAD7-6EB6AF68A8CD}.Release|x86.Build.0 = Release|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1039BAF-64AE-4706-A362-0EC9A329F42A}.Release|x86.Build.0 = Release|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Debug|x86.Build.0 = Debug|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Release|x86.ActiveCfg = Release|Any CPU
+		{D4D1205A-D8FA-4248-A6FF-5950A84A01D3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vsshell.visualstudio.com/
+		SccProjectUniqueName0 = ProjectType1\\ProjectType1.ProjectTemplate\\ProjectType1.ProjectTemplate.csproj
+		SccProjectName0 = ProjectType1/ProjectType1.ProjectTemplate
+		SccAuxPath0 = https://vsshell.visualstudio.com
+		SccLocalPath0 = ProjectType1\\ProjectType1.ProjectTemplate
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
